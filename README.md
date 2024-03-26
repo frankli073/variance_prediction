@@ -32,6 +32,24 @@ Moreover, we will evaluate our models based on improvements made compared to mod
 
 ## References
 
-- Katsiampa, P. (2017). Volatility estimation for Bitcoin: A comparison of GARCH models. Economics Letters, 158, 3-6.
-- Sullivan, J. C. (Year Unknown). Stock price volatility prediction with long short-term memory neural networks. Department of Computer Science, Stanford University.
-- [More references as listed in your LaTeX document]
+## References
+
+- Katsiampa, P. (2017). "Volatility estimation for Bitcoin: A comparison of GARCH models." *Economics Letters*, 158, 3-6. This paper explores various GARCH models for estimating Bitcoin volatility, which might provide insights for your econometric model component.
+
+- Sullivan, J. C. (Year Unknown). "Stock price volatility prediction with long short-term memory neural networks." *Department of Computer Science, Stanford University*. 
+
+- Bouri, E., Gupta, R., Tiwari, A. K., & Roubaud, D. (2017). "Does Bitcoin hedge global uncertainty? Evidence from wavelet-based quantile-in-quantile regressions." *Finance Research Letters*, 23, 87-95.
+
+- Xiong, Yibing, Takashi Yamada, and Takao Terano. "Comparison of Different Market Making Strategies for High Frequency Traders." *Department of Computational Intelligence and System Science, Tokyo Institute of Technology*, Year.
+
+- Ncume, V., Van Zyl, T. L., & Paskaramoorthy, A. (2022). "Volatility forecasting using Deep Learning and sentiment analysis." *arXiv preprint arXiv:2210.12464*. [Online]. Available: https://arxiv.org/abs/2210.12464
+
+- Optiver Realized Volatility Prediction: [Kaggle Notebook](https://www.kaggle.com/code/gunesevitan/optiver-realized-volatility-prediction-1d-cnn)
+
+- Optiver Realized Volatility Prediction Competition Discussion: [Kaggle Discussion](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/discussion/274970)
+
+- Article on Volatility Prediction using ML: [Springer Link](https://link.springer.com/article/10.1007/s00500-022-07161-1)
+
+- CoinMarketCap: [Website](https://coinmarketcap.com/)
+
+- CryptoCompare: [Website](https://www.cryptocompare.com/)
