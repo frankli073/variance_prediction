@@ -3,8 +3,8 @@
 ## Project Proposal for DSGA-1003: Volatility Prediction
 
 **Authors:**
-- Junwen Fang
 - Frank Li
+- Junwen Fang
 - Jaylen Peng
 - Adam Xu
 
